@@ -5,7 +5,7 @@ import styledVar from '../variableStyle/styled-variables';
 export const Wrapper = styled.div`
   margin: 0 auto;
   padding: 20px;
-  width: 1600px;
+  width: 1250px;
 `;
 
 export const List = styled(styledVar.List)`
